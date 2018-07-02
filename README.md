@@ -9,7 +9,7 @@ This plug-in makes SDI media input streams available in Unreal Engine 4.
 
 ## Supported Platforms & Drivers
 
-This plug-in was last tested against **Unreal Engine 4.19** on Windows only.
+This plug-in was last tested against **Unreal Engine 4.20** on Windows only.
 
 
 ## Prerequisites
